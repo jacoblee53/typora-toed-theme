@@ -1,4 +1,4 @@
-# Tode
+# Toed
 
 A minimalism and clean theme for Typora.
 
