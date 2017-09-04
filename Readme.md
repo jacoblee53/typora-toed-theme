@@ -16,7 +16,7 @@ A minimalism and clean theme for Typora.
 5. Restart typora, then select it from Themes menu.
 6. Purchase webfonts of your choice and put them into to the `toed` subdirectory in theme folder, and then you could use CSS like [this](http://support.typora.io/Custom-Font/) to apply the font.
 
-> Recommended fonts: **Montserrat | Open Sans | Merriweather **
+> Recommended fonts: Montserrat | Open Sans | Merriweather 
 
 ⚠️ Caution: Designed and tested only on macOS.
 
