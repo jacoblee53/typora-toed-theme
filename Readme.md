@@ -2,10 +2,6 @@
 
 A minimalism and clean theme for Typora.
 
-![screenshot](http://oppnkay27.bkt.clouddn.com/2017090415045118466090.png "part")
-
-📌 [For more details](http://oppnkay27.bkt.clouddn.com/20170904150451199365567.jpg)
-
 
 ### Installation
 
