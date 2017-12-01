@@ -16,6 +16,4 @@ A minimalism and clean theme for Typora.
 
 ⚠️ Caution: Designed and tested only on macOS.
 
-----
-
 🍺 Enjoy it!
